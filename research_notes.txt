@@ -1,0 +1,24 @@
+---
+Timestamp: 2025-06-05 13:17:29
+Content:
+### Summary of Tariffs
+
+A **tariff** is a duty imposed by a national government on the import or export of goods. It is primarily used to regulate trade between countries. Tariffs can serve several purposes:
+1. **Revenue Generation**: Tariffs can be a significant source of income for a government.
+2. **Protection of Domestic Industries**: By increasing the cost of foreign goods, tariffs protect local businesses from international competition.
+3. **Trade Regulation**: Tariffs can influence the balance of trade, encouraging or discouraging trade with specific countries.
+
+There are various types of tariffs, including:
+- **Ad Valorem Tariff**: A percentage of the value of the imported goods.
+- **Specific Tariff**: A fixed fee based on the quantity or weight of the goods.
+- **Compound Tariff**: A combination of both ad valorem and specific tariffs.
+
+Tariffs also have potential disadvantages. They can lead to increased prices for consumers as manufacturers often pass on the additional costs. Furthermore, tariffs may instigate trade wars, where countries retaliate against each other's tariffs, disrupting global trade.
+
+### Most Relevant Sources:
+1. **Wikipedia - Tariff**: [Wikipedia Tariff](https://en.wikipedia.org/wiki/Tariff)
+2. **Investopedia - Tariff**: [Investopedia Tariff](https://www.investopedia.com/terms/t/tariff.asp)
+3. **Council on Foreign Relations - Tariffs and Trade**: [CFR Tariff Overview](https://www.cfr.org/backgrounder/tariffs-and-trade)
+4. **US Customs and Border Protection - Tariffs Overview**: [US CBP Tariffs](https://www.cbp.gov/)
+5. **World Trade Organization - Tariff Profiles**: [WTO Tariff Profiles](https://www.wto.org/english/res_e/statis_e/tariff_profiles_e.htm)
+---
