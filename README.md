@@ -1,6 +1,7 @@
 # 🧠 Simple AI Research Agent
 
-A basic Python-based AI research assistant using LangChain and OpenAI (or Anthropic) to search the web, summarize topics, and save notes to a file.
+A basic Python-based AI research assistant using LangChain and OpenAI (or Anthropic) to search the web, summarize topics, and save notes to a file. 
+> 🧪 Tutorial source: [techwithtim/PythonAIAgentFromScratch](https://github.com/techwithtim/PythonAIAgentFromScratch)
 
 ## 🚀 Features
 
